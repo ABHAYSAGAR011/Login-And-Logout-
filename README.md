@@ -6,3 +6,20 @@ Backend is node js .. to make dynamic to in nature of page we use EJS..
 ![Screenshot (36)](https://user-images.githubusercontent.com/75936484/200891403-9b10cb53-8852-480d-95eb-7cc12666b800.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/75936484/200891453-c16295e6-d2ce-4ec6-b4fb-e2b030d0b12a.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/75936484/200891501-3c05fe64-6a57-4535-bd26-ff1830ae2176.png)
+
+#Technologies Used
+Node js 
+Ejs 
+Html
+Css
+Javascript
+MongoDB
+
+#Work Flow
+Home Page 
+Two option Login and Register
+As per click Login or Register button render the page 
+Register user data save on mongodb 
+Login user find the password in database 
+After register or login then render the Secret main page
+Logout button also here then click on it render the login page
